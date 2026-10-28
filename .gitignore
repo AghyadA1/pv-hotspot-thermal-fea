@@ -1,0 +1,16 @@
+# ANSYS solver output and scratch files (hundreds of MB, regenerated on solve)
+*.rth
+*.rst
+ds.dat
+*.esav
+*.emat
+*.full
+*.cnd
+*.DSP
+*.gst
+*.err
+*.out
+*.lock
+_ProjectScratch/
+**/session_files/
+**/.project_cache
