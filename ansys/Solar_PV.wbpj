@@ -8,10 +8,6 @@
     <last-saved-utc valType="String">11/30/2025 18:32:50</last-saved-utc>
     <managed-categories valType="String">[report, misc, progress]</managed-categories>
     <logHistory valType="StringArray">
-      <ArrayEntry Index="0">Yousef@DESKTOP-NTJ5EIJ:C:\Users\Yousef\AppData\Local\Temp\WorkbenchLogs\CoreEvents1808.log</ArrayEntry>
-      <ArrayEntry Index="1">Admin@TRAININGXX-PC:C:\Users\Tc\AppData\Local\Temp\WorkbenchLogs\CoreEvents3388.log</ArrayEntry>
-      <ArrayEntry Index="2">Yousef@DESKTOP-NTJ5EIJ:C:\Users\Yousef\AppData\Local\Temp\WorkbenchLogs\CoreEvents7128.log</ArrayEntry>
-      <ArrayEntry Index="3">aghya@AA:C:\Users\aghya\AppData\Local\Temp\WorkbenchLogs\CoreEvents42860.log</ArrayEntry>
     </logHistory>
     <expression-scope-container valType="String">Parameters</expression-scope-container>
     <project-type valType="String">WB2</project-type>
