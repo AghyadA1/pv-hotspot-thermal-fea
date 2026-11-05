@@ -101,8 +101,8 @@
        2 PARALLEL PROCESSES REQUESTED WITH SINGLE THREAD PER PROCESS
     TOTAL OF     2 CORES REQUESTED
   MPI OPTION                   = INTELMPI
-  INPUT FILE NAME              = C:\Users\aghya\Desktop\Solar\_ProjectScratch\Scr60A1\dummy.dat
-  OUTPUT FILE NAME             = C:\Users\aghya\Desktop\Solar\_ProjectScratch\Scr60A1\solve.out
+  INPUT FILE NAME              = <project_dir>\_ProjectScratch\Scr60A1\dummy.dat
+  OUTPUT FILE NAME             = <project_dir>\_ProjectScratch\Scr60A1\solve.out
   START-UP FILE MODE           = NOREAD
   STOP FILE MODE               = NOREAD
 
@@ -129,17 +129,17 @@
  SET PARAMETER DIMENSIONS ON  _WB_PROJECTSCRATCH_DIR
   TYPE=STRI  DIMENSIONS=      248        1        1
 
- PARAMETER _WB_PROJECTSCRATCH_DIR(1) = C:\Users\aghya\Desktop\Solar\_ProjectScratch\Scr60A1\
+ PARAMETER _WB_PROJECTSCRATCH_DIR(1) = <project_dir>\_ProjectScratch\Scr60A1\
 
  SET PARAMETER DIMENSIONS ON  _WB_SOLVERFILES_DIR
   TYPE=STRI  DIMENSIONS=      248        1        1
 
- PARAMETER _WB_SOLVERFILES_DIR(1) = C:\Users\aghya\Desktop\Solar\Solar_PV_files\dp0\SYS\MECH\
+ PARAMETER _WB_SOLVERFILES_DIR(1) = <project_dir>\Solar_PV_files\dp0\SYS\MECH\
 
  SET PARAMETER DIMENSIONS ON  _WB_USERFILES_DIR
   TYPE=STRI  DIMENSIONS=      248        1        1
 
- PARAMETER _WB_USERFILES_DIR(1) = C:\Users\aghya\Desktop\Solar\Solar_PV_files\user_files\
+ PARAMETER _WB_USERFILES_DIR(1) = <project_dir>\Solar_PV_files\user_files\
  --- Data in consistent NMM units. See Solving Units in the help system for more
 
  MPA UNITS SPECIFIED FOR INTERNAL    
@@ -463,7 +463,7 @@
  *** NOTE ***                            CP =       3.141   TIME= 21:26:02
  The model data was checked and warning messages were found.             
   Please review output or errors file (                                  
- C:\Users\aghya\Desktop\Solar\_ProjectScratch\Scr60A1\file0.err ) for    
+ <project_dir>\_ProjectScratch\Scr60A1\file0.err ) for    
  these warning messages.                                                 
 
  *** ANSYS - ENGINEERING ANALYSIS SYSTEM  RELEASE Release 19.2     19.2     ***
@@ -1860,8 +1860,8 @@ Input File: dummy.dat
 
   Core                Machine Name   Working Directory
  -----------------------------------------------------
-     0                          AA   C:\Users\aghya\Desktop\Solar\_ProjectScratch\Scr60A1
-     1                          AA   C:\Users\aghya\Desktop\Solar\_ProjectScratch\Scr60A1
+     0                          AA   <project_dir>\_ProjectScratch\Scr60A1
+     1                          AA   <project_dir>\_ProjectScratch\Scr60A1
  
 Latency time from master to core     1 =    0.516 microseconds
  
